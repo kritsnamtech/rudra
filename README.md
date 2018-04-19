@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+---
+title: Project RUDRA - ROAD UTILISATION DEMOGRAPHICS WITH REALTIME ANALYTICS
+---
 
-You can use the [editor on GitHub](https://github.com/kritsnamtech/rudra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Project RUDRA
+### ROAD UTILISATION DEMOGRAPHICS WITH REALTIME ANALYTICS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Motivation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Frequent accidents are being reported every year during Yatra season because of vehicle over speedings. Currently there is no monitoring system in place to identify the over speeders on the mountain roads. It is critical to have a simple, cheap and yet robust average speed monitoring system to effectively manage this issue. On facing the similar problem, few road management authorities including the one in Tirumala Tirupati, Andhra Pradesh are using vehicle average speed mapping systems to identify the over speeders. This project aims to develop and pilot test a QR code based vehicle tracking to ensure the road safety to all the Yatra pilgrims. 
 
-```markdown
-Syntax highlighted code block
+### RUDRA Protects You
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kritsnamtech/rudra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Frequent accidents are being reported every year during Yatra season because of vehicle over speedings. Currently there is no monitoring system in place to identify the over speeders on the mountain roads. It is critical to have a simple and robust average speed monitoring system to effectively manage this issue. On facing the similar problem, few road management authorities including the one in Tirumala Tirupati, Andhra Pradesh are using vehicle average speed mapping systems to identify the over speeders. This project aims to develop and pilot test a QR code based vehicle tracking to ensure the road safety to all the Yatra pilgrims.
